@@ -23,7 +23,7 @@ hs_err_pid*
 
 
 # IDE
-out
-.idea
-target
+out/
+.idea/
+target/
 *.iml
